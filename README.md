@@ -1,9 +1,9 @@
-### Hi stranger 👋
+## Hi stranger 👋
 
 My name is Dmitriy, i'm a UI-engineer with overall 5+ years of experience in web-development
 
-My key specialization is **development**, **optimization** and **scaling** of complex interfaces based on **React**.  
-I worked in large **outsource** companies, big **products** and small **startups** where you have to take more responsibility and different roles.
+My key specialization is **development**, **optimization** and **scaling** of complex interfaces based on **React**  
+I worked in large **outsource** companies, big **products** and small **startups** where you have to take more responsibility and different roles
 
 ### My experience
 
