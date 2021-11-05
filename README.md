@@ -8,13 +8,6 @@ My name is Dmitriy, i'm a ✨ **Senior UI-engineer** with overall **5+ years of 
 
 You can ask me about anything [here](https://t.me/toastyboost)
 
-### My experience
-
-- Webpack, React, Redux, Effector, Gatsby, Storybook
-- Node, Express, Next, Nest, GraphQL, Socket.IO, Swagger
-- AWS, GSP, Google Firebase
-- Github Actions, Gitlab CI/CD
-
 ### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toastyboost&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
