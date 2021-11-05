@@ -5,6 +5,8 @@ My name is Dmitriy, i'm a UI-engineer with overall 5+ years of experience in web
 My key specialization is **development**, **optimization** and **scaling** of complex interfaces based on **React**  
 I worked in large **outsource** companies, big **products** and small **startups** where you have to take a lot of responsibility and different roles
 
+💬 Ask me about anything [here](https://t.me/toastyboost)
+
 ### My experience
 
 - Webpack, React, Redux, Effector, Gatsby, Storybook
