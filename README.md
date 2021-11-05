@@ -6,7 +6,7 @@ My name is Dmitriy, i'm a ✨ **Senior UI-engineer** with overall **5+ years of 
 🎢 I worked in large **outsource** companies, big **products** and small **startups**  
 🙏🏻 I know what is to take a responsibility and different roles to achieve sufficient results
 
-💬 You can ask me about anything [here](https://t.me/toastyboost)
+You can ask me about anything [here](https://t.me/toastyboost)
 
 ### My experience
 
