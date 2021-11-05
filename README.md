@@ -1,6 +1,6 @@
 ## Hi stranger 👋
 
-My name is Dmitriy, i'm a UI-engineer with overall 5+ years of experience in web-development
+My name is Dmitriy, i'm a **senior UI-engineer** with overall **5+ years of experience** in web-development
 
 My key specialization is **development**, **optimization** and **scaling** of complex interfaces based on **React**  
 I worked in large **outsource** companies, big **products** and small **startups**  
@@ -12,7 +12,7 @@ I know what is to take a responsibility and different roles to achieve sufficien
 
 - Webpack, React, Redux, Effector, Gatsby, Storybook
 - Node, Express, Next, Nest, GraphQL, Socket.IO, Swagger
-- Cloud platforms: Google Firebase, AWS
+- AWS, GSP, Google Firebase
 - Github Actions, Gitlab CI/CD
 
 ### Stats
