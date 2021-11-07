@@ -1,6 +1,6 @@
 ## Hi stranger 👋
 
-My name is Dmitriy, i'm a ✨ **Senior UI-engineer** with overall **5+ years of experience** in web-development
+My name is Dmitriy, i'm a **UI-engineer** with overall **5+ years of experience** in web-development
 
 ### Stats
 
