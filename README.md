@@ -3,7 +3,7 @@
 My name is Dmitriy and i'm a UI-engineer with overall 5+ years of experience in web-development
 
 - You can read my thoughts at [teletype](https://teletype.in/@boost)
-- Ask me anytime in [telegram](https://t.me/toastyboost)
+- Ask me anytime about anything in [telegram](https://t.me/toastyboost)
 
 ### Stats
 
