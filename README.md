@@ -1,6 +1,6 @@
 ## Hi stranger 👋
 
-My name is Dmitriy and i'm a Web-developer and UI-engineer with overall 5+ years of experience in web-development
+My name is Dmitriy, i'm a web-developer and ui-engineer with overall 6+ years of experience
 
 - You can read my thoughts at [teletype](https://teletype.in/@boost)
 - Ask me anytime about anything in [telegram](https://t.me/toastyboost)
