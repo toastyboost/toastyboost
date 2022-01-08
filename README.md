@@ -1,7 +1,7 @@
 ## Hi stranger 👋
 
 I'm Dmitriy, a web-developer and ui-engineer with overall 6+ years of experience.  
-My current stuck is: `JavaScript` `TypeScript` `ReactJS` `Webpack` `Storybook` `GatsbyJS` `NodeJS` `Express` `GraphQL` `Firebase`
+My stack: `JavaScript` `TypeScript` `React` `Webpack` `Storybook` `Gatsby` `Node` `Express` `GraphQL` `Firebase`
 
 - You can read my thoughts at [teletype](https://teletype.in/@boost)
 - Ask me anytime about anything in [telegram](https://t.me/toastyboost)
