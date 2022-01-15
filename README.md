@@ -1,7 +1,8 @@
 ## Hi 👋
 
-I'm Dmitriy, a web-developer and ui-engineer with overall 6+ years of experience.  
-My stack: 
+I'm Dmitriy, a web-developer and ui-engineer with overall 6+ years of experience. 
+
+So, i'm experienced with: 
 - Languages: `JavaScript` `TypeScript` `Bash`
 - Frameworks: `React` `Svelte` `Redux` `Effector` `Next` `Gatsby`  
 - Bundlers: `Webpack` `Rollup`
