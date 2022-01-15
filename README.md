@@ -3,7 +3,7 @@
 I'm Dmitriy, a web-developer and ui-engineer with overall 6+ years of experience. 
 
 So, i'm experienced with: 
-- Languages: `JavaScript` `TypeScript` `Bash`
+- Languages: `JavaScript` `TypeScript` `HTML5` `CSS3` `Bash`
 - Frameworks: `React` `Svelte` `Redux` `Effector` `Next` `Gatsby`  
 - Bundlers: `Webpack` `Rollup`
 - Documentation: `Swagger` `Storybook`
