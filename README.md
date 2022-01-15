@@ -2,13 +2,11 @@
 
 I'm Dmitriy, a web-developer and ui-engineer with overall 6+ years of experience.  
 My stack: 
-- Client side: `JavaScript` `TypeScript` `React` `Svelte`
-- State managment: `Redux` `Effector` `React Context`
+- Languages: `JavaScript` `TypeScript` `Bash`
+- Frameworks: `React` `Svelte` `Redux` `Effector` `Next` `Gatsby`  
 - Bundlers: `Webpack` `Rollup`
-- SSR: `Next` `Gatsby` 
 - Documentation: `Swagger` `Storybook`
-- Server side: `Node` `Express` `GraphQL` 
-- Clouds: `AWS` `Firebase`
+- Serverside: `Node` `Express` `GraphQL` 
 
 In my spare time i go through [udemy](https://udemy.com) and [frontendmasters](https://frontendmasters.com) courses to learn and explore new things.
 
