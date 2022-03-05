@@ -2,9 +2,9 @@
 
 I'm Dmitriy, a web-developer and ui-engineer with overall 6+ years of experience. 
 
-I'm proficient in: 
-- Languages: `JavaScript` `TypeScript` `HTML5` `CSS3` `Bash`
-- Frameworks: `React` `Svelte` `Redux` `Effector` `Next` `Gatsby`  
+My stack: 
+- Languages: `JavaScript` `TypeScript`
+- Frameworks: `React` `Redux` `Effector` `Next` `Gatsby` `Svelte`
 - Bundlers: `Webpack` `Rollup`
 - Documentation: `Swagger` `Storybook`
 - Serverside: `Node` `Express` `GraphQL` 
