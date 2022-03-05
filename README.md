@@ -9,7 +9,7 @@ My stack:
 - Documentation: `Swagger` `Storybook`
 - Serverside: `Node` `Express` `GraphQL` 
 
-In my spare time i go through [udemy](https://udemy.com) and [frontendmasters](https://frontendmasters.com) courses to learn and explore new things.
+In my spare time i go through [udemy](https://udemy.com) and [frontendmasters](https://frontendmasters.com) courses.
 
 - You can read my thoughts at [teletype](https://teletype.in/@boost)
 - Ask me anytime about anything in [telegram](https://t.me/toastyboost)
