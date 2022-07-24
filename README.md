@@ -14,6 +14,10 @@ In my spare time i go through [udemy](https://udemy.com) and [frontendmasters](h
 - You can read my thoughts at [teletype](https://teletype.in/@boost)
 - Ask me anytime about anything in [telegram](https://t.me/toastyboost)
 
+My telegram bots and channels:
+
+- https://t.me/stockspulse_market - Providing financial market indexes of America, Asia, Russia and Europe at the beginning and end of trading sessions. 
+
 ### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toastyboost&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
