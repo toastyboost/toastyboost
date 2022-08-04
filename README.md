@@ -16,7 +16,7 @@ In my spare time i go through [udemy](https://udemy.com) and [frontendmasters](h
 
 My telegram bots and channels:
 
-- [@stockspulse_market](https://t.me/stockspulse_market) — US, Asia, Russia and Europe indexes at the beginning/end of trading sessions
+- [@stockspulse](https://t.me/+2JJBaotqUng0Zjgy) — financial services in Telegram
 
 ### Stats
 
