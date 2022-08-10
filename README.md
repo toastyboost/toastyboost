@@ -17,6 +17,7 @@ In my spare time i go through [udemy](https://udemy.com) and [frontendmasters](h
 My telegram bots and channels:
 
 - [@stockspulse](https://t.me/+2JJBaotqUng0Zjgy) — financial services in Telegram
+- [@stockspulse_fear](https://t.me/+LOR7USKfjhA2ZGRi) — fear and greed index
 
 ### Stats
 
