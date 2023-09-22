@@ -17,8 +17,6 @@ In my spare time i go through [udemy](https://udemy.com) and [frontendmasters](h
 My telegram bots and channels:
 
 - [@stockspulse_moex](https://t.me/stockspulse_moex) — MOEX realtime market data right into Telegram
-- [@stockspulse_spbe](https://t.me/stockspulse_spbe)
-- [@stockspulse_moex](https://t.me/stockspulse_crypto) 
  
 ### Stats
 
