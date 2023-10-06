@@ -9,15 +9,19 @@ My stack:
 - Documentation: `Swagger` `Storybook`
 - Serverside: `Node` `Express` `GraphQL` 
 
-In my spare time i go through [udemy](https://udemy.com) and [frontendmasters](https://frontendmasters.com) courses.
-
+Completed courses:
+- [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/learn/lecture/17751414)
+- [AWS Certified Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+- [Introduction to Node.js](https://frontendmasters.com/courses/node-js-v2/)
+ 
 - You can read my thoughts at [teletype](https://teletype.in/@boost)
 - Ask me anytime about anything in [telegram](https://t.me/toastyboost)
 
-My telegram bots and channels:
+My channels and bots:
 
+Financial:
+
+- [@stockspulse](https://t.me/stockspulse)
 - [@stockspulse_moex](https://t.me/stockspulse_moex)
+- [@stockspulse_signals](https://t.me/stockspulse_signals)
  
-### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toastyboost&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
