@@ -14,7 +14,7 @@ My Projects:
 - [@stockspulse_moex](https://t.me/stockspulse_moex)
 - [@stockspulse_signals](https://t.me/stockspulse_signals)
 
-Opensource:
+My opensource:
 - [Woly: UI development kit](https://github.com/woly-ui/woly)
 
 My blogs:
