@@ -9,14 +9,17 @@ My stack:
 - Documentation: `Swagger` `Storybook`
 - Serverside: `Node` `Express` `GraphQL` 
 
-My channels and bots:
+My Projects:
 - [@stockspulse](https://t.me/stockspulse)
 - [@stockspulse_moex](https://t.me/stockspulse_moex)
 - [@stockspulse_signals](https://t.me/stockspulse_signals)
 
+Opensource:
+- [Woly: UI development kit](https://github.com/woly-ui/woly)
+
 My blogs:
 - [Personal](https://teletype.in/@boost)  
-- [Trading](https://teletype.in/@stockspulse)  
+- [About Trading](https://teletype.in/@stockspulse)  
 
 My completed courses:
 - [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/learn/lecture/17751414)  
