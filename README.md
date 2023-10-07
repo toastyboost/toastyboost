@@ -9,7 +9,7 @@ My stack:
 - Documentation: `Swagger` `Storybook`
 - Serverside: `Node` `Express` `GraphQL` 
 
-My Projects:
+My telegramm bots:
 - [@stockspulse](https://t.me/stockspulse)
 - [@stockspulse_moex](https://t.me/stockspulse_moex)
 - [@stockspulse_signals](https://t.me/stockspulse_signals)
