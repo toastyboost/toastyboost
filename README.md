@@ -18,7 +18,7 @@ My opensource:
 - [Woly: UI development kit](https://github.com/woly-ui/woly)
 
 My blogs:
-- [Personal](https://teletype.in/@boost)  
+- [About Development](https://teletype.in/@boost)  
 - [About Trading](https://teletype.in/@stockspulse)  
 
 My completed courses:
