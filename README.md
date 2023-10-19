@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Dmitriy, a Senior UI-engineer with overall 7+ years of experience. 
+I'm Dmitriy, here some details about me:
 
 My stack: 
 - Languages: `JavaScript` `TypeScript`
