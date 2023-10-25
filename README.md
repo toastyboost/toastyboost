@@ -20,7 +20,10 @@ My opensource:
 
 My blogs:
 - [About Development](https://teletype.in/@boost)  
-- [About Trading](https://teletype.in/@stockspulse)  
+- [About Trading](https://teletype.in/@stockspulse)
+
+My stats:
+- [Leetcode](https://leetcode.com/toastyboost)
 
 My completed courses:
 - [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/learn/lecture/17751414)  
