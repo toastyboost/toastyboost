@@ -7,7 +7,8 @@ My stack:
 - Frameworks: `React` `Redux` `Effector` `Next` `Gatsby` `Svelte`
 - Bundlers: `Webpack` `Rollup`
 - Documentation: `Swagger` `Storybook`
-- Serverside: `Node` `Express` `GraphQL` 
+- Serverside: `Node` `Express` `GraphQL`
+- Clouds: `AWS` `Yandex.Cloud`
 
 My telegramm bots:
 - [@stockspulse](https://t.me/stockspulse)
