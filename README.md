@@ -10,7 +10,7 @@ My stack:
 - Serverside: `Node` `Express` `GraphQL`
 - Clouds: `AWS` `Yandex.Cloud`
 
-My telegramm bots:
+My telegram bots:
 - [@stockspulse](https://t.me/stockspulse)
 - [@stockspulse_moex](https://t.me/stockspulse_moex)
 - [@stockspulse_signals](https://t.me/stockspulse_signals)
