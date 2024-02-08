@@ -4,7 +4,8 @@ I'm Dmitriy, here some details about me:
 
 My stack: 
 - Languages: `JavaScript` `TypeScript`
-- Frameworks: `React` `Redux` `Effector` `Next` `Gatsby` `Svelte`
+- Frameworks: `React` `Next` `Gatsby` `Svelte`
+- State Managment:  `Effector` `Redux` 
 - Bundlers: `Webpack` `Rollup` `Vite`
 - Documentation: `Swagger` `Storybook`
 - Serverside: `Node` `Express` `GraphQL`
