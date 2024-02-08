@@ -5,7 +5,7 @@ I'm Dmitriy, here some details about me:
 My stack: 
 - Languages: `JavaScript` `TypeScript`
 - Frameworks: `React` `Redux` `Effector` `Next` `Gatsby` `Svelte`
-- Bundlers: `Webpack` `Rollup`
+- Bundlers: `Webpack` `Rollup` `Vite`
 - Documentation: `Swagger` `Storybook`
 - Serverside: `Node` `Express` `GraphQL`
 - Clouds: `AWS` `Yandex.Cloud`
