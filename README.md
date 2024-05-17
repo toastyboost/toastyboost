@@ -12,8 +12,8 @@ My stack:
 - Clouds: `AWS` `Yandex.Cloud`
 
 My telegram bots:
-- [@stockspulse](https://t.me/stockspulse)
 - [@stockspulse_moex](https://t.me/stockspulse_moex)
+- [@stockspulse_trades](https://t.me/stockspulse_trades)
 - [@stockspulse_signals](https://t.me/stockspulse_signals)
 
 My opensource:
