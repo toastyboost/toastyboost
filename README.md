@@ -18,7 +18,7 @@ My telegram bots:
  
 My blogs:
  
-- About development / [telegram](https://t.me/dimaloper) / [teletype](https://teletype.in/@boost)
+- About development | [telegram](https://t.me/dimaloper) [teletype](https://teletype.in/@boost)
 - [About Trading](https://teletype.in/@stockspulse)
 
 My stats:
