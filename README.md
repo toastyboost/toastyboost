@@ -13,7 +13,7 @@ My stack:
   
 My channels:
  
-- My private channel in [telegram](https://t.me/dimaloper) and [teletype](https://teletype.in/@boost)
+- My private channel in telegram [t.me/dimaloper](https://t.me/dimaloper) and teletype [teletype.in/@boost](https://teletype.in/@boost)
 - My memes community in telegram [t.me/it_gags](https://t.me/+lNtTQvQ5WgthMjNi])
 
 My trading channels:
