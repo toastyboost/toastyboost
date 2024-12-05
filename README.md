@@ -13,8 +13,8 @@ My stack:
   
 My telegram channels:
  
-- My private channel | [telegram](https://t.me/dimaloper) [teletype](https://teletype.in/@boost)
-- My memes community | [t.me/it_gags]([https://t.me/+lNtTQvQ5WgthMjNi]))
+- My private channel → [telegram](https://t.me/dimaloper) and [teletype](https://teletype.in/@boost)
+- My memes community → [t.me/it_gags](https://t.me/+lNtTQvQ5WgthMjNi])
 
 My trading channels:
 - [@stockspulse_moex](https://t.me/stockspulse_moex)
