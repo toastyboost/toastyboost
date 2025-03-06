@@ -26,7 +26,7 @@ My stats:
 
 Ask me anytime about anything in [telegram](https://t.me/toastyboost)  
 
-Test [webapp://pwa.dev.lipt-soft.ru/](webapp://pwa.dev.lipt-soft.ru/)
+Test [https://pwa.dev.lipt-soft.ru/](https://pwa.dev.lipt-soft.ru/){:target="_blank"}
 
 <a href="webapp://pwa.dev.lipt-soft.ru/" target="_blank">Hello, world!</a>
 
