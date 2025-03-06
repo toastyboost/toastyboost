@@ -24,14 +24,4 @@ My trading channels:
 My stats:
 - [Leetcode](https://leetcode.com/toastyboost)
 
-Ask me anytime about anything in [telegram](https://t.me/toastyboost)  
-
-Test [https://pwa.dev.lipt-soft.ru/](https://pwa.dev.lipt-soft.ru/){:target="_blank"}
-
-<a href="webapp://pwa.dev.lipt-soft.ru/" target="_blank">Hello, world!</a>
-
-54545
-
-<a href="webapp://pwa.dev.lipt-soft.ru/" target="_blank">Hello, world!</a>
-
-Test [https://pwa.dev.lipt-soft.ru/](webapp://БСПБ)
+Ask me anytime about anything in [telegram](https://t.me/toastyboost) 
