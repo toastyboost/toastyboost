@@ -30,5 +30,7 @@ Test [https://pwa.dev.lipt-soft.ru/](https://pwa.dev.lipt-soft.ru/)
 
 <a href="https://pwa.dev.lipt-soft.ru/" target="_blank">Hello, world!</a>
 
+54545
+
 <a href="webapp://pwa.dev.lipt-soft.ru/" target="_blank">Hello, world!</a>
 
