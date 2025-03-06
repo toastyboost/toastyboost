@@ -25,3 +25,5 @@ My stats:
 - [Leetcode](https://leetcode.com/toastyboost)
 
 Ask me anytime about anything in [telegram](https://t.me/toastyboost)  
+
+Test [https://pwa.dev.lipt-soft.ru](https://pwa.dev.lipt-soft.ru)
