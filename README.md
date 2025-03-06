@@ -34,3 +34,4 @@ Test [https://pwa.dev.lipt-soft.ru/](https://pwa.dev.lipt-soft.ru/){:target="_bl
 
 <a href="webapp://pwa.dev.lipt-soft.ru/" target="_blank">Hello, world!</a>
 
+Test [https://pwa.dev.lipt-soft.ru/](webapp://БСПБ){:target="_blank"}
